@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\coryf\source\repos\ai_assignment1\ai_assignment1\source.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\coryf\source\repos\ai_assignment1\ai_assignment1\source.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\coryf\source\repos\ai_assignment1\ai_assignment1\source.cpp(293): warning C4018: '<': signed/unsigned mismatch
+  AI_Assignment1.vcxproj -> C:\Users\coryf\source\repos\AI_Assignment1\Debug\AI_Assignment1.exe
